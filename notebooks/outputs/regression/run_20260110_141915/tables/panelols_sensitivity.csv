@@ -1,0 +1,5 @@
+spec,beta,std_err,p_value_two_sided,nobs,error
+robust,0.8675269341103441,0.2308678188120482,0.00017772811113170306,1671.0,
+cluster_state,0.8675269341103441,0.5501246958210236,0.11500382617253946,1671.0,
+cluster_state_month,0.8675269341103441,0.5408426001594229,0.1089075064893541,1671.0,
+kernel_bartlett_bw6,,,,,"Covariance estimator DriscollKraay only supports the keyword arguments: kernel, bandwidth. Unknown keyword arguments were passed to the estimator. The unknown keyword argument(s) are: cov_config "

@@ -1,0 +1,5 @@
+item,metric,value
+mart.fact_retail_price,rowcount,10404.0
+mart.fact_retail_price.price_cents_kwh,null_pct,16.666666666666668
+mart.fact_retail_price.sales_mkwh,null_pct,16.666666666666668
+mart.fact_dc_state,rowcount,30.0

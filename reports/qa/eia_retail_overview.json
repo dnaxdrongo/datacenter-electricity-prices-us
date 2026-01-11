@@ -1,0 +1,8 @@
+{
+  "dataset": "eia_retail_sales",
+  "rows": 10404,
+  "cols": 13,
+  "duplicate_rows": 0,
+  "missing_cells": 6936,
+  "missing_pct": 0.05128205128205128
+}

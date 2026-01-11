@@ -1,0 +1,24 @@
+{
+  "rows": 1734,
+  "cols": 18,
+  "states": 51,
+  "months": 34,
+  "null_thresholds": {
+    "res_price_cents_kwh": 0.05,
+    "dc_mw_per_res_mkwh": 0.25,
+    "generation_mwh_total": 0.1,
+    "fuel_cost_proxy": 0.25,
+    "share_coal": 0.25,
+    "share_gas": 0.25,
+    "share_nuclear": 0.25
+  },
+  "null_rates": {
+    "res_price_cents_kwh": 0.0,
+    "dc_mw_per_res_mkwh": 0.0,
+    "generation_mwh_total": 0.0,
+    "fuel_cost_proxy": 0.0,
+    "share_coal": 0.03633217993079585,
+    "share_gas": 0.03633217993079585,
+    "share_nuclear": 0.03633217993079585
+  }
+}

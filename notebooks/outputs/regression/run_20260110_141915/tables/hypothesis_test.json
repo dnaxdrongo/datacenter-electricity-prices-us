@@ -1,0 +1,20 @@
+{
+  "alpha": 0.05,
+  "hypothesis": "H0: beta <= 0 vs H1: beta > 0",
+  "param": "dc_mw_per_res_mkwh_w",
+  "beta": 0.8675269341103441,
+  "std_error": 0.5408426001594229,
+  "t_stat": 1.604028480475882,
+  "p_two_sided": 0.1089075064893541,
+  "p_one_sided_beta_gt_0": 0.05445375324467705,
+  "reject_H0": false,
+  "nobs": 1671,
+  "states": 51,
+  "months": 34,
+  "exposure_p25": 0.0,
+  "exposure_p75": 0.11924634016614011,
+  "exposure_delta_p75_minus_p25": 0.11924634016614011,
+  "implied_delta_price_cents_per_kwh": 0.1034494118882107,
+  "implied_delta_price_ci95_low": -0.023052371250940774,
+  "implied_delta_price_ci95_high": 0.2299511950273622
+}

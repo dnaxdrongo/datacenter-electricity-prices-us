@@ -1,0 +1,8 @@
+{
+  "dataset": "fractracker_datacenters",
+  "rows": 1260,
+  "cols": 40,
+  "duplicate_rows": 0,
+  "missing_cells": 25840,
+  "missing_pct": 0.5126984126984127
+}

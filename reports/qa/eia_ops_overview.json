@@ -1,0 +1,8 @@
+{
+  "dataset": "eia_power_ops",
+  "rows": 429522,
+  "cols": 19,
+  "duplicate_rows": 0,
+  "missing_cells": 544561,
+  "missing_pct": 0.06672790977681678
+}

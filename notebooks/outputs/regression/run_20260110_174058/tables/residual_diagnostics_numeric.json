@@ -1,0 +1,7 @@
+{
+  "resid_mean": 1.1031271647191142e-14,
+  "resid_std": 1.0499126599176691,
+  "lag1_autocorr_mean_across_states": 0.6706804874172337,
+  "lag1_autocorr_median_across_states": 0.6946309445311345,
+  "n_states_with_lag1_corr": 51
+}

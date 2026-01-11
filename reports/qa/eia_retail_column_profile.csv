@@ -1,0 +1,14 @@
+,dtype,n_missing,pct_missing,n_unique
+sales,object,1734,0.16666666666666666,7920
+revenue,object,1734,0.16666666666666666,7912
+customers,object,1734,0.16666666666666666,6748
+price,object,1734,0.16666666666666666,2097
+stateid,object,0,0.0,51
+stateDescription,object,0,0.0,51
+period,object,0,0.0,34
+sectorid,object,0,0.0,6
+sectorName,object,0,0.0,6
+customers-units,object,0,0.0,1
+price-units,object,0,0.0,1
+revenue-units,object,0,0.0,1
+sales-units,object,0,0.0,1

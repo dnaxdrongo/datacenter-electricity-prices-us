@@ -1,0 +1,4 @@
+table,metric,value
+mart.dim_state,rowcount,51
+mart.dim_month,rowcount,34
+mart.dim_retail_sector,rowcount,6

@@ -1,0 +1,24 @@
+Regression & Hypothesis Testing (PanelOLS)
+
+Model:
+Two-way fixed effects panel regression with state fixed effects and month fixed effects.
+Outcome: residential price (cents/kWh).
+Exposure: data center load intensity (MW per million kWh of residential sales).
+Controls: log(1+generation), fuel mix shares (renew omitted baseline), fuel cost proxy.
+
+Estimation:
+- PanelOLS with EntityEffects + TimeEffects
+- SEs: two-way clustered by state and month
+- N=1671 across 51 states and 34 months
+
+Result:
+beta=0.867527 (SE=0.540843)
+two-sided p=0.108908
+one-sided p=0.054454 → fail to reject H0 at alpha=0.05
+
+Effect size (P25→P75 exposure):
+Δx=0.119246 implies Δprice≈0.1034 cents/kWh
+(95% CI≈[-0.0231, 0.2300])
+
+Artifacts written to:
+C:\Users\amand\OneDrive\Documents\School\Assignments\WGU\Data-Engineering\Capstone\datacenter-electricity-prices-us\notebooks\outputs\regression\run_20260110_141915
